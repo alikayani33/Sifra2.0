@@ -1,5 +1,5 @@
 import React, { useContext } from 'react';
-import './app.css';
+import './App.css';
 import va from './assets/ai.png';
 import { FaMicrophone } from "react-icons/fa";
 import { Datacontext } from './context/UserContext';
